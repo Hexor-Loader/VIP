@@ -1,4 +1,5 @@
-#EXTM3U 
+#EXTM3U
+
 #1 Bein Max 1 SD ( G )
 #EXTINF:-1 group-title="Bein Max SD - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1 SD (G)
 http://hydratv.pro:80/shadibalkis/aUJkuYbkHi/724639
@@ -6,3 +7,7 @@ http://hydratv.pro:80/shadibalkis/aUJkuYbkHi/724639
 #2 Bein Max 1 HD ( G )
 #EXTINF:-1 group-title="Bein Max HD - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1 HD (G)
 http://hydratv.pro:80/shadibalkis/aUJkuYbkHi/724614
+
+#3 Bein Max 1 FHD (G)
+#EXTINF:-1 group-title="Bein Max FHD - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1 FHD (G)
+http://hydratv.pro:80/shadibalkis/aUJkuYbkHi/724593
