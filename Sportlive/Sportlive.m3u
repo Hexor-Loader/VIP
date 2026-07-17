@@ -1,39 +1,394 @@
-#EXTM3U
+#EXTM3U 
 
-#----------------- Bein Max 1 -----------------------------
-
-#1 Bein Max 1 SD (G)
-#EXTINF:-1 group-title="Bein Max 1 - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 AR RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734316
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS MAX 2 AR RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734317
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS MAX 3 EN RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734318
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 EN RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734319
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" ,┃AR┃ BEIN SPORTS MAX 5 FR RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734320
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" ,┃AR┃ BEIN SPORTS MAX 6 FR RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734321
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" ,☰☰☰☰☰ BEIN SPORTS MAX HEVC ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734308
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 AR HEVC
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734309
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS MAX 2 AR HEVC
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734310
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS MAX 3 EN HEVC
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734311
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 EN HEVC
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734312
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" ,┃AR┃ BEIN SPORTS MAX 5 FR HEVC
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734313
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" ,┃AR┃ BEIN SPORTS MAX 6 FR HEVC
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734314
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" ,☰☰☰☰☰ BEIN SPORTS MAX HD ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734294
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 AR HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734295
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS MAX 2 AR HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734296
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS MAX 3 EN HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734297
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 EN HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734298
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" ,┃AR┃ BEIN SPORTS MAX 5 FR HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734299
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" ,┃AR┃ BEIN SPORTS MAX 6 FR HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734300
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" ,☰☰☰☰☰ BEIN SPORTS MAX SD ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734301
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 AR SD
 http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734302
-
-#2 Bein Max 1 HD (G)
-#EXTINF:-1 group-title="Bein Max HD - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1 HD (G)
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS MAX 2 AR SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734303
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS MAX 3 EN SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734304
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 EN SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734305
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" ,┃AR┃ BEIN SPORTS MAX 5 FR SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734306
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" ,┃AR┃ BEIN SPORTS MAX 6 FR SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734307
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" ,☰☰☰☰☰ BEIN SPORTS MAX RAW ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745011
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745015
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS MAX 2 RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745014
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS MAX 3 RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745013
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745012
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" ,┃AR┃ BEIN SPORTS MAX 5 RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745052
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" ,┃AR┃ BEIN SPORTS MAX 6 RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745056
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" ,☰☰☰☰☰ BEIN SPORTS MAX FHD ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745016
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 FHD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745020
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS MAX 2 FHD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745019
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS MAX 3 FHD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745018
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 FHD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745017
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" ,┃AR┃ BEIN SPORTS MAX 5 FHD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745051
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" ,┃AR┃ BEIN SPORTS MAX 6 FHD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745055
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" ,☰☰☰☰☰ BEIN SPORTS MAX HD ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745021
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 HD
 http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745022
-
-#3 Bein Max 1 FHD (G)
-#EXTINF:-1 group-title="Bein Max FHD - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1 FHD (G)
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS MAX 2 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745023
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS MAX 3 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745024
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745025
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" ,┃AR┃ BEIN SPORTS MAX 5 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745053
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" ,┃AR┃ BEIN SPORTS MAX 6 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745057
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" ,☰☰☰☰☰ BEIN SPORTS MAX SD ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745026
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745030
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS MAX 2 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745029
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS MAX 3 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745028
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745027
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" ,┃AR┃ BEIN SPORTS MAX 5 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745054
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX AP" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" ,┃AR┃ BEIN SPORTS MAX 6 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745058
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" ,☰☰☰☰☰ BEIN SPORTS MAX RAW ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745031
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745035
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS MAX 2 RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745034
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN%20SPORTS/BEIN%20SPORTS%203.png" ,┃AR┃ BEIN SPORTS MAX 3 RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745033
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 RAW
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745032
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" ,☰☰☰☰☰ BEIN SPORTS MAX FHD ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745036
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 FHD
 http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745040
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS MAX 2 FHD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745039
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN%20SPORTS/BEIN%20SPORTS%203.png" ,┃AR┃ BEIN SPORTS MAX 3 FHD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745038
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 FHD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745037
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" ,☰☰☰☰☰ BEIN SPORTS MAX HD ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745041
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745042
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS MAX 2 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745043
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN%20SPORTS/BEIN%20SPORTS%203.png" ,┃AR┃ BEIN SPORTS MAX 3 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745044
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745045
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" ,☰☰☰☰☰ BEIN SPORTS MAX SD ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745046
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745050
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS MAX 2 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745049
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN%20SPORTS/BEIN%20SPORTS%203.png" ,┃AR┃ BEIN SPORTS MAX 3 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745048
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX F" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745047
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,☰☰☰☰☰ BEIN SPORTS MAX FHD ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747311
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 FHD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747312
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS MAX 2 FHD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747313
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS MAX 3 FHD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747314
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 FHD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747315
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,☰☰☰☰☰ BEIN SPORTS MAX HD ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747316
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747317
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 2 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747318
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS MAX 3 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747319
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747320
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,☰☰☰☰☰ BEIN SPORTS MAX SD ☰☰☰☰☰
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747321
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 1 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747322
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS MAX 2 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747323
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS MAX 3 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747324
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX SS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS MAX 4 SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1747325
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 1 HEVC AR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753660
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 2 HEVC AR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753661
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 2 HEVC EN
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753663
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 2 HEVC FR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753665
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 1 HEVC EN
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753662
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 1 HEVC FR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753664
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 1 FHD AR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753666
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 1 FHD EN
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753668
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 1 FHD FR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753670
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 2 FHD AR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753667
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 2 FHD EN
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753669
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 2 FHD FR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753671
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 1 HD AR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753672
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 1 HD EN
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753674
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 1 HD FR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753676
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 2 HD AR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753673
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 2 HD EN
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753675
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 2 HD FR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753677
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 1 SD AR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753678
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 1 SD EN
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753680
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 1 SD FR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753682
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 2 SD AR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753679
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 2 SD EN
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753681
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS MAX NM" ,┃AR┃ BEIN SPORTS MAX 2 SD FR
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/1753683
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS NEWS.png" ,┃AR┃ BEIN SPORTS NEWS HD S2
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985171
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS GLOBAL.png" ,┃AR┃ BEIN SPORTS GLOBAL HD S2
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985170
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" tvg-id="beinsports1.qa" ,┃AR┃ BEIN SPORTS 1 HD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242255
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS 1 HD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985161
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" tvg-id="beinsports2.qa" ,┃AR┃ BEIN SPORTS 2 HD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242254
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS 2 HD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985162
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" tvg-id="beinsports3.qa" ,┃AR┃ BEIN SPORTS 3 HD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242253
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS 3 HD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985163
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" tvg-id="beinsports4.qa" ,┃AR┃ BEIN SPORTS 4 HD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242252
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS 4 HD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985164
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" tvg-id="beinsports5.qa" ,┃AR┃ BEIN SPORTS 5 HD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242251
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" ,┃AR┃ BEIN SPORTS 5 HD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985165
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" tvg-id="beinsports6.qa" ,┃AR┃ BEIN SPORTS 6 HD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242250
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" ,┃AR┃ BEIN SPORTS 6 HD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985166
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" tvg-id="beinsports7.qa" ,┃AR┃ BEIN SPORTS 7 HD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242249
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" ,┃AR┃ BEIN SPORTS 7 HD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985167
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" ,┃AR┃ BEIN SPORTS 8 HD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242248
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" ,┃AR┃ BEIN SPORTS 8 HD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985168
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" ,┃AR┃ BEIN SPORTS 9 HD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242247
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" ,┃AR┃ BEIN SPORTS 9 HD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985169
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS NEWS.png" ,┃AR┃ BEIN SPORTS NEWS SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985187
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS GLOBAL.png" ,┃AR┃ BEIN SPORTS GLOBAL SD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985186
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS 1 SD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/798828
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,┃AR┃ BEIN SPORTS 1 SD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985188
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS 2 SD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/798829
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,┃AR┃ BEIN SPORTS 2 SD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985189
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS 3 SD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/798830
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,┃AR┃ BEIN SPORTS 3 SD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985190
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS 4 SD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/798831
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,┃AR┃ BEIN SPORTS 4 SD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985191
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" ,┃AR┃ BEIN SPORTS 5 SD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/798833
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" ,┃AR┃ BEIN SPORTS 5 SD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985192
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" ,┃AR┃ BEIN SPORTS 6 SD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/798834
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" ,┃AR┃ BEIN SPORTS 6 SD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985193
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" ,┃AR┃ BEIN SPORTS 7 SD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/798835
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" ,┃AR┃ BEIN SPORTS 7 SD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985194
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" ,┃AR┃ BEIN SPORTS 8 SD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/798837
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" ,┃AR┃ BEIN SPORTS 8 SD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985195
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" ,┃AR┃ BEIN SPORTS 9 SD S1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/798838
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" ,┃AR┃ BEIN SPORTS 9 SD S3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/985196
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" tvg-id="beinsports1.qa" ,┃AR┃ BEIN SPORTS 1
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242242
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" tvg-id="beinsports2.qa" ,┃AR┃ BEIN SPORTS 2
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242241
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" tvg-id="beinsports3.qa" ,┃AR┃ BEIN SPORTS 3
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242240
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" tvg-id="beinsports4.qa" ,┃AR┃ BEIN SPORTS 4
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242239
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" tvg-id="beinsports5.qa" ,┃AR┃ BEIN SPORTS 5
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242238
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" tvg-id="beinsports6.qa" ,┃AR┃ BEIN SPORTS 6
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242237
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" tvg-id="beinsports7.qa" ,┃AR┃ BEIN SPORTS 7
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242236
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" tvg-id="beinsports1en.qa" ,┃AR┃ BEIN SPORTS 8
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242235
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" tvg-id="beinsports2en.qa" ,┃AR┃ BEIN SPORTS 9
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242234
 
-#3 Bein Max 1 4K (G)
-#EXTINF:-1 group-title="BeIN Max 4K - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1 4K (G)
-http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745040
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" tvg-id="alkassone.qa" ,┃AR┃ AL KASS 1 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242232
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" ,┃AR┃ AL KASS 1 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712436
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" tvg-id="alkasstwo.qa" ,┃AR┃ AL KASS 2 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242231
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" ,┃AR┃ AL KASS 2 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712437
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" tvg-id="alkassthree.qa" ,┃AR┃ AL KASS 3 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242229
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" ,┃AR┃ AL KASS 3 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712438
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" tvg-id="alkassfour.qa" ,┃AR┃ AL KASS 4 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242230
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" ,┃AR┃ AL KASS 4 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712439
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" tvg-id="alkassfive.qa" ,┃AR┃ AL KASS 5 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/242228
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" ,┃AR┃ AL KASS 5 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712440
 
-#----------------- Bein Max 2 -----------------------------
-
-#1 Bein Max 2 SD (G)
-#EXTINF:-1 group-title="Bein Max 2 - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 2
-
-
-#2 Bein Max 2 HD (G)
-#EXTINF:-1 group-title="Bein Max HD - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 2 HD (G)
-
-
-#3 Bein Max 3 FHD (G)
-#EXTINF:-1 group-title="Bein Max FHD - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105220532132.png" ,Bein Max 2 FHD (G)
-
-
-#4 Bein Max 2 4K (G)
-#EXTINF:-1 group-title="BeIN Max 4K - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 2 4K (G)
-
-
-#----------------- Bein Max 3 -----------------------------
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY AD SPORTS 1 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712414
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY AD SPORTS 1 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712415
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY AD SPORTS 2 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712416
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY AD SPORTS 2 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712417
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY AD SPORTS PREMIUM 1 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712418
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY AD SPORTS PREMIUM 1 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712419
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY AD SPORTS PREMIUM 2 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712420
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY AD SPORTS PREMIUM 2 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712421
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY AD SPORTS ASIA 1 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712422
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY AD SPORTS ASIA 1 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712423
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY AD SPORTS ASIA 2 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712424
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY AD SPORTS ASIA 2 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712425
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY SPORTS UFC 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712426
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY SPORTS UFC HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712427
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY SPORTS YAS 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712428
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY SPORTS YAS HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712429
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY SPORTS CRICLIFE 1 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712430
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY SPORTS CRICLIFE 1 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712431
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY SPORTS CRICLIFE 2 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712432
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY SPORTS CRICLIFE 2 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712433
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY SPORTS CRICLIFE 3 4K
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712434
+#EXTINF:-1 group-title="┃AR┃ STARZPLAY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" ,┃AR┃ STARZPLAY SPORTS CRICLIFE 3 HD
+http://line.prive-ott.net:80/WV2AK4/WLKNG1/712435
