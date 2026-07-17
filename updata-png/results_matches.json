@@ -1,0 +1,179 @@
+{
+  "header": {
+    "title": "كأس العالم FIFA 2026™",
+    "subtitle": "نتائج مباشرة • ملخصات • مواعيد قادمة",
+    "badge": "LIVE"
+  },
+  "tabs": {
+    "live": "المباريات الجارية",
+    "summary": "المباريات المنتهية",
+    "upcoming": "المباريات القادمة"
+  },
+  "empty_texts": {
+    "live": "لا توجد مباريات جارية الآن",
+    "summary": "لا توجد مباريات منتهية الآن",
+    "upcoming": "لا توجد مباريات قادمة الآن"
+  },
+  "matches": [
+    {
+      "category": "summary",
+      "stage": "دور الـ16",
+      "status": "انتهت",
+      "left_team": "مصر",
+      "left_flag": "https://flagcdn.com/w320/eg.png",
+      "right_team": "الأرجنتين",
+      "right_flag": "https://flagcdn.com/w320/ar.png",
+      "left_score": "2",
+      "right_score": "3",
+      "detail": "الثلاثاء"
+    },
+    {
+      "category": "summary",
+      "stage": "دور الـ16",
+      "status": "انتهت",
+      "left_team": "سويسرا",
+      "left_flag": "https://flagcdn.com/w320/ch.png",
+      "right_team": "كولومبيا",
+      "right_flag": "https://flagcdn.com/w320/co.png",
+      "left_score": "0 (4)",
+      "right_score": "0 (3)",
+      "detail": "الثلاثاء"
+    },
+    {
+      "category": "summary",
+      "stage": "دور الـ16",
+      "status": "انتهت",
+      "left_team": "إسبانيا",
+      "left_flag": "https://flagcdn.com/w320/es.png",
+      "right_team": "البرتغال",
+      "right_flag": "https://flagcdn.com/w320/pt.png",
+      "left_score": "1",
+      "right_score": "0",
+      "detail": "الاثنين"
+    },
+    {
+      "category": "summary",
+      "stage": "دور الـ16",
+      "status": "انتهت",
+      "left_team": "بلجيكا",
+      "left_flag": "https://flagcdn.com/w320/be.png",
+      "right_team": "الولايات المتحدة",
+      "right_flag": "https://flagcdn.com/w320/us.png",
+      "left_score": "4",
+      "right_score": "1",
+      "detail": "الاثنين"
+    },
+    {
+      "category": "summary",
+      "stage": "دور الـ16",
+      "status": "انتهت",
+      "left_team": "البرازيل",
+      "left_flag": "https://flagcdn.com/w320/br.png",
+      "right_team": "النرويج",
+      "right_flag": "https://flagcdn.com/w320/no.png",
+      "left_score": "1",
+      "right_score": "2",
+      "detail": "الأحد"
+    },
+    {
+      "category": "summary",
+      "stage": "دور الـ16",
+      "status": "انتهت",
+      "left_team": "المكسيك",
+      "left_flag": "https://flagcdn.com/w320/mx.png",
+      "right_team": "إنجلترا",
+      "right_flag": "https://flagcdn.com/w320/gb-eng.png",
+      "left_score": "2",
+      "right_score": "3",
+      "detail": "الأحد"
+    },
+    {
+      "category": "upcoming",
+      "stage": "ربع النهائي",
+      "status": "قادمة",
+      "left_team": "المغرب",
+      "left_flag": "https://flagcdn.com/w320/ma.png",
+      "right_team": "فرنسا",
+      "right_flag": "https://flagcdn.com/w320/fr.png",
+      "score_text": "VS",
+      "detail": "الخميس 09 يوليو • 11:00 مساءً"
+    },
+    {
+      "category": "upcoming",
+      "stage": "ربع النهائي",
+      "status": "قادمة",
+      "left_team": "بلجيكا",
+      "left_flag": "https://flagcdn.com/w320/be.png",
+      "right_team": "إسبانيا",
+      "right_flag": "https://flagcdn.com/w320/es.png",
+      "score_text": "VS",
+      "detail": "الجمعة 10 يوليو • 10:00 مساءً"
+    },
+    {
+      "category": "upcoming",
+      "stage": "ربع النهائي",
+      "status": "قادمة",
+      "left_team": "إنجلترا",
+      "left_flag": "https://flagcdn.com/w320/gb-eng.png",
+      "right_team": "النرويج",
+      "right_flag": "https://flagcdn.com/w320/no.png",
+      "score_text": "VS",
+      "detail": "السبت 11 يوليو • 12:00 ليلاً"
+    },
+    {
+      "category": "upcoming",
+      "stage": "ربع النهائي",
+      "status": "قادمة",
+      "left_team": "سويسرا",
+      "left_flag": "https://flagcdn.com/w320/ch.png",
+      "right_team": "الأرجنتين",
+      "right_flag": "https://flagcdn.com/w320/ar.png",
+      "score_text": "VS",
+      "detail": "الأحد 12 يوليو • 04:00 فجراً"
+    },
+    {
+      "category": "upcoming",
+      "stage": "نصف النهائي",
+      "status": "قادمة",
+      "left_team": "يحدد لاحقاً",
+      "left_flag": "",
+      "right_team": "يحدد لاحقاً",
+      "right_flag": "",
+      "score_text": "VS",
+      "detail": "الثلاثاء 14 يوليو • 10:00 مساءً"
+    },
+    {
+      "category": "upcoming",
+      "stage": "نصف النهائي",
+      "status": "قادمة",
+      "left_team": "يحدد لاحقاً",
+      "left_flag": "",
+      "right_team": "يحدد لاحقاً",
+      "right_flag": "",
+      "score_text": "VS",
+      "detail": "الأربعاء 15 يوليو • 10:00 مساءً"
+    },
+    {
+      "category": "upcoming",
+      "stage": "المركز الثالث",
+      "status": "قادمة",
+      "left_team": "يحدد لاحقاً",
+      "left_flag": "",
+      "right_team": "يحدد لاحقاً",
+      "right_flag": "",
+      "score_text": "VS",
+      "detail": "السبت 18 يوليو • 12:00 ليلاً"
+    },
+    {
+      "category": "upcoming",
+      "stage": "النهائي",
+      "status": "قادمة",
+      "left_team": "يحدد لاحقاً",
+      "left_flag": "",
+      "right_team": "يحدد لاحقاً",
+      "right_flag": "",
+      "score_text": "VS",
+      "detail": "الأحد 19 يوليو • 10:00 مساءً"
+    }
+  ]
+}
