@@ -1,20 +1,22 @@
 {
   "slides": [
     {
-      "left_team": "ألارجنتين",
-      "right_team": "أسبانيا",
+      "left_team": "الأرجنتين",
+      "right_team": "إسبانيا",
       "vs": "VS",
       "day": "الأحد",
       "time": "10:00",
-      "period": "م"
+      "period": "م",
+      "bottom_text": "نهائي - كأس العالم 2026 - من سيكون البطل"
     },
     {
       "left_team": "فرنسا",
-      "right_team": "انجلترا",
+      "right_team": "إنجلترا",
       "vs": "VS",
-      "day": "الاحد",
+      "day": "الأحد",
       "time": "12:00",
-      "period": "م"
+      "period": "م",
+      "bottom_text": "المركز الثالث - كأس العالم 2026"
     },
     {
       "left_team": "لا يوجد",
@@ -22,7 +24,8 @@
       "vs": "VS",
       "day": "0",
       "time": "0",
-      "period": "0"
+      "period": "0",
+      "bottom_text": ""
     },
     {
       "left_team": "لا يوجد",
@@ -30,7 +33,8 @@
       "vs": "VS",
       "day": "0",
       "time": "0",
-      "period": "0"
+      "period": "0",
+      "bottom_text": ""
     }
   ]
 }
