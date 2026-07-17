@@ -17,20 +17,20 @@
       "period": "مساء"
     },
     {
-      "left_team": "إنجلترا",
-      "right_team": "الأرجنتين",
+      "left_team": "لا يوجد",
+      "right_team": "لا يوجد",
       "vs": "VS",
-      "day": "الأربعاء",
-      "time": "10:00",
-      "period": "مساء"
+      "day": "0",
+      "time": "0",
+      "period": "0"
     },
     {
-      "left_team": "يحدد لاحقاً",
-      "right_team": "يحدد لاحقاً",
+      "left_team": "لا يوجد",
+      "right_team": "لا يوجد",
       "vs": "VS",
-      "day": "الأحد",
-      "time": "12:00",
-      "period": "مساء"
+      "day": "0",
+      "time": "0",
+      "period": "0"
     }
   ]
 }
