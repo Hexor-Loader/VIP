@@ -1,22 +1,22 @@
-
 #EXTM3U
+
 #----------------- Bein Max 1 -----------------------------
 
-#1 Bein Max 1 SD (G)
+#1 Bein Max 1 SD
 #EXTINF:-1 group-title="Bein Max 1 - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1
-http://line.prive-ott.net:80/WV2AK4/WLKNG1/1734302
+https://j.top4top.io/m_3852v99lo0.mp4
 
-#2 Bein Max 1 HD (G)
-#EXTINF:-1 group-title="Bein Max HD - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1 HD (G)
-http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745022
+#2 Bein Max 1 HD
+#EXTINF:-1 group-title="Bein Max HD - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1 HD
+https://j.top4top.io/m_3852v99lo0.mp4
 
-#3 Bein Max 1 FHD (G)
-#EXTINF:-1 group-title="Bein Max FHD - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1 FHD (G)
-http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745040
+#3 Bein Max 1 FHD
+#EXTINF:-1 group-title="Bein Max FHD - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1 FHD
+https://j.top4top.io/m_3852v99lo0.mp4
 
-#3 Bein Max 1 4K (G)
-#EXTINF:-1 group-title="BeIN Max 4K - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1 4K (G)
-http://line.prive-ott.net:80/WV2AK4/WLKNG1/1745040
+#3 Bein Max 1 4K
+#EXTINF:-1 group-title="BeIN Max 4K - كأس العالم" tvg-logo="https://mediafireupload.xyz/uploads/178105208944411.png" ,Bein Max 1 4K
+https://j.top4top.io/m_3852v99lo0.mp4
 
 #----------------- Bein Max 2 -----------------------------
 
