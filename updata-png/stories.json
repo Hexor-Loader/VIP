@@ -1,0 +1,30 @@
+{
+  "stories": [
+    {
+      "id": "story_image_1_2026_07_20",
+      "title": "خبر جديد",
+      "type": "image",
+      "image": "story1.png"
+    },
+    {
+      "id": "story_video_1_2026_07_20",
+      "title": "فيديو جديد",
+      "type": "video",
+      "image": "story2_thumb.png",
+      "video": "story2.mp4"
+    },
+    {
+      "id": "story_image_2_2026_07_20",
+      "title": "مباراة اليوم",
+      "type": "image",
+      "image": "story3.png"
+    },
+    {
+      "id": "story_video_2_2026_07_20",
+      "title": "لقطة مباشرة",
+      "type": "video",
+      "image": "story4_thumb.png",
+      "video": "story4.mp4"
+    }
+  ]
+}
