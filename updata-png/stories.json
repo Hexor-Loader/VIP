@@ -75,14 +75,14 @@
         }
       ]
     },
-        {
+    {
       "id": "main_story_4",
       "title": "أخبار رياضية",
       "image": "newks1.png",
       "items": [
         {
           "type": "image",
-          "title": "خبر أول",
+          "title": "هدف توريس",
           "image": "story4-1.png"
         },
         {
@@ -98,8 +98,5 @@
         }
       ]
     }
-    
-    
-    
   ]
 }
