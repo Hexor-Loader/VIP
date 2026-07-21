@@ -83,12 +83,12 @@
         {
           "type": "image",
           "title": "خبر أول",
-          "image": "newks1.png"
+          "image": "story4-1.png"
         },
         {
           "type": "image",
-          "title": "خبر ثانٍ",
-          "image": "newks2.png"
+          "title": "خبر ثاني",
+          "image": "story4-2.png"
         },
         {
           "type": "video",
