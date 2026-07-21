@@ -74,6 +74,29 @@
           "video": "ads_video.mp4"
         }
       ]
+    },
+        {
+      "id": "main_story_4",
+      "title": "أخبار رياضية",
+      "image": "newks1.png",
+      "items": [
+        {
+          "type": "image",
+          "title": "خبر أول",
+          "image": "newks1.png"
+        },
+        {
+          "type": "image",
+          "title": "خبر ثانٍ",
+          "image": "newks2.png"
+        },
+        {
+          "type": "video",
+          "title": "ملخص المباراة",
+          "image": "newks_video_thumb.png",
+          "video": "newks_video.mp4"
+        }
+      ]
     }
   ]
 }
