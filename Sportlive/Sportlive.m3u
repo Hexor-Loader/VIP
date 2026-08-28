@@ -133,7 +133,14 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/391102
 #EXTINF:-1,beIN Sport 9 4k
 http://luxipgold.xyz:8080/15034094901029/18800196589372/318205
 
+---------------------------------------------------------------------------
 
+#1 beIN Sport News HD
+#EXTINF:-1 group-title="beIN Sport News" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN" ,beIN Sport News
+http://luxipgold.xyz:8080/15034094901029/18800196589372/443146
+
+#EXTINF:-1,beIN Sport News 4K
+http://luxipgold.xyz:8080/15034094901029/18800196589372/318230
 
 ---------------------------------------------------------------------------
 
@@ -209,24 +216,7 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/460855
 
 ### beIN Sport 4K ###
 
-#EXTINF:-1,beIN Sport Global 4K
-http://luxipgold.xyz:8080/15034094901029/18800196589372/22186
 
-#EXTINF:-1,beIN Sport News 4K
-http://luxipgold.xyz:8080/15034094901029/18800196589372/318230
-
-
-
-
-
-
-### beIN Sport HD ###
-
-#EXTINF:-1,beIN Global HD
-http://luxipgold.xyz:8080/15034094901029/18800196589372/442220
-
-#EXTINF:-1,beIN Sport News HD
-http://luxipgold.xyz:8080/15034094901029/18800196589372/443146
 
 
 
