@@ -32,12 +32,12 @@
     {
       "id": "main_story_2",
       "title": "أخبار رياضية",
-      "image": "news1.png",
+      "image": "newks1.png",
       "items": [
         {
           "type": "image",
           "title": "أخبار رياضية",
-          "image": "news2.png"
+          "image": "news1.png"
         },
         {
           "type": "image",
