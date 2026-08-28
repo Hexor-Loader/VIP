@@ -172,22 +172,26 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/325803
 #EXTINF:-1 group-title="Bein Sport 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,Bein Sport 2
 http://luxipgold.xyz:8080/15034094901029/18800196589372/325804
 
-
-
-#EXTINF:-1,beIN Sport 3 sd
+#3 Bein Sport 3 SD
+#EXTINF:-1 group-title="Bein Sport 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" ,Bein Sport 3
 http://luxipgold.xyz:8080/15034094901029/18800196589372/325805
 
-#EXTINF:-1,beIN Sport 4 sd
+#4 Bein Sport 4 SD
+#EXTINF:-1 group-title="Bein Sport 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" ,Bein Sport 4
 http://luxipgold.xyz:8080/15034094901029/18800196589372/325806
 
-#EXTINF:-1,beIN Sport 5 sd
+#5 Bein Sport 5 SD
+#EXTINF:-1 group-title="Bein Sport 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" ,Bein Sport 5
 http://luxipgold.xyz:8080/15034094901029/18800196589372/325807
 
-#EXTINF:-1,beIN Sport 6 sd
+#6 Bein Sport 6 SD
+#EXTINF:-1 group-title="Bein Sport 6" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" ,Bein Sport 6
 http://luxipgold.xyz:8080/15034094901029/18800196589372/325808
 
-#EXTINF:-1,beIN Sport 7 sd
+#7 Bein Sport 7 SD
+#EXTINF:-1 group-title="Bein Sport 7" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png" ,Bein Sport 7
 http://luxipgold.xyz:8080/15034094901029/18800196589372/325809
+
 
 #EXTINF:-1,beIN Sport 8 sd
 http://luxipgold.xyz:8080/15034094901029/18800196589372/325810
