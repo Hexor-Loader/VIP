@@ -1,53 +1,72 @@
-#EXTINF:-1,AR| ALWAN SPORT 1 4K
-http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859098.ts
+#EXTINF:-1,AR| ALWAN SPORT
 
-#EXTINF:-1,AR| ALWAN SPORT 2 4K
-http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859097.ts
-
-#EXTINF:-1,AR| ALWAN SPORT 3 4K
-http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859096.ts
-
-#EXTINF:-1,AR| ALWAN SPORT 4 4K
-http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859095.ts
-
-#EXTINF:-1,AR| ALWAN SPORT 5 4K
-http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859094.ts
-
-#EXTINF:-1,AR| ALWAN SPORT 6 4K
-http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859093.ts
+#1 ALWAN SPORT 1 SD
+#EXTINF:-1 group-title="ALWAN SPORT 1" tvg-logo="https://j.top4top.io/p_3892hzyzg0.png" ,ALWAN SPORT 1
+http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859086.ts
 
 #EXTINF:-1,AR| ALWAN SPORT 1 HD
 http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859092.ts
 
+#EXTINF:-1,AR| ALWAN SPORT 1 4K
+http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859098.ts
+
+----------------------------------------------------------------------------
+
+#2 ALWAN SPORT 2 SD
+#EXTINF:-1 group-title="ALWAN SPORT 2" tvg-logo="https://j.top4top.io/p_3892hzyzg0.png" ,ALWAN SPORT 2
+http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859086.ts
+
 #EXTINF:-1,AR| ALWAN SPORT 2 HD
 http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859091.ts
+
+#EXTINF:-1,AR| ALWAN SPORT 2 4K
+http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859097.ts
+
+----------------------------------------------------------------------------
+
+#3 ALWAN SPORT 3 SD
+#EXTINF:-1 group-title="ALWAN SPORT 3" tvg-logo="https://j.top4top.io/p_3892hzyzg0.png" ,ALWAN SPORT 3
+http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859084.ts
+
+#EXTINF:-1,AR| ALWAN SPORT 3 4K
+http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859096.ts
 
 #EXTINF:-1,AR| ALWAN SPORT 3 HD
 http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859090.ts
 
+----------------------------------------------------------------------------
+
+#4 ALWAN SPORT 4 SD
+#EXTINF:-1 group-title="ALWAN SPORT 4" tvg-logo="https://j.top4top.io/p_3892hzyzg0.png" ,ALWAN SPORT 4
+http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859083.ts
+
 #EXTINF:-1,AR| ALWAN SPORT 4 HD
 http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859089.ts
+
+#EXTINF:-1,AR| ALWAN SPORT 4 4K
+http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859095.ts
+
+----------------------------------------------------------------------------
+
+#5 ALWAN SPORT 5 SD
+#EXTINF:-1 group-title="ALWAN SPORT 5" tvg-logo="https://j.top4top.io/p_3892hzyzg0.png" ,ALWAN SPORT 5
+http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859082.ts
 
 #EXTINF:-1,AR| ALWAN SPORT 5 HD
 http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859088.ts
 
+#EXTINF:-1,AR| ALWAN SPORT 5 4K
+http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859094.ts
+
+----------------------------------------------------------------------------
+
+#6 ALWAN SPORT 6 SD
+#EXTINF:-1 group-title="ALWAN SPORT 6" tvg-logo="https://j.top4top.io/p_3892hzyzg0.png" ,ALWAN SPORT 6
+http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859081.ts
+
+#EXTINF:-1,AR| ALWAN SPORT 6 4K
+http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859093.ts
+
 #EXTINF:-1,AR| ALWAN SPORT 6 HD
 http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859087.ts
 
-#EXTINF:-1,AR| ALWAN SPORT 1 SD
-http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859086.ts
-
-#EXTINF:-1,AR| ALWAN SPORT 2 SD
-http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859085.ts
-
-#EXTINF:-1,AR| ALWAN SPORT 3 SD
-http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859084.ts
-
-#EXTINF:-1,AR| ALWAN SPORT 4 SD
-http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859083.ts
-
-#EXTINF:-1,AR| ALWAN SPORT 5 SD
-http://vpn.yunoxtt.com/live/507c79caff/aa3fb994854d/1859082.ts
-
-#EXTINF:-1,AR| ALWAN SPORT 6 SD
-https://go2026.app/?m=31169&lang=ar
