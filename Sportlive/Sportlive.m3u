@@ -147,7 +147,7 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/318230
 ### ALWAN SPORT ###
 
 #1 ALWAN SPORT 1 SD
-#EXTINF:-1 group-title="ALWAN SPORT 1" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 1 
+#EXTINF:-1 group-title="ALWAN 1" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 1 
 http://luxipgold.xyz:8080/15034094901029/18800196589372/418113
 
 #EXTINF:-1,Alwan Sport 1 HD
@@ -158,7 +158,7 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/418111
 
 
 #2 ALWAN SPORT 2 SD
-#EXTINF:-1 group-title="ALWAN SPORT 2" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 2
+#EXTINF:-1 group-title="ALWAN 2" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 2
 http://luxipgold.xyz:8080/15034094901029/18800196589372/418116
 
 #EXTINF:-1,Alwan Sport 2 HD
@@ -169,7 +169,8 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/418114
 
 
 
-#EXTINF:-1,Alwan Sport 3 SD
+#2 ALWAN SPORT 3 SD
+#EXTINF:-1 group-title="ALWAN 3" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 3
 http://luxipgold.xyz:8080/15034094901029/18800196589372/418119
 
 #EXTINF:-1,Alwan Sport 3 HD
@@ -180,7 +181,8 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/418117
 
 
 
-#EXTINF:-1,Alwan Sport 4 SD
+#2 ALWAN SPORT 4 SD
+#EXTINF:-1 group-title="ALWAN 4" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 4
 http://luxipgold.xyz:8080/15034094901029/18800196589372/418122
 
 #EXTINF:-1,Alwan Sport 4 HD
@@ -191,8 +193,8 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/418120
 
 
 
-
-#EXTINF:-1,Alwan Sport 5 SD
+#2 ALWAN SPORT 5 SD
+#EXTINF:-1 group-title="ALWAN 5" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 5
 http://luxipgold.xyz:8080/15034094901029/18800196589372/418125
 
 #EXTINF:-1,Alwan Sport 5 HD
@@ -203,7 +205,8 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/418123
 
 
 
-#EXTINF:-1,Alwan Sport 6 SD
+#2 ALWAN SPORT 6 SD
+#EXTINF:-1 group-title="ALWAN 6" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 6
 http://luxipgold.xyz:8080/15034094901029/18800196589372/418128
 
 #EXTINF:-1,Alwan Sport 6 HD
@@ -212,25 +215,26 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/418127
 #EXTINF:-1,Alwan Sport 6 4K
 http://luxipgold.xyz:8080/15034094901029/18800196589372/418126
 
+---------------------------------------------------------------------------
 
-
-
-
-
-#EXTINF:-1,Alwan Sport 7 4K
+#2 ALWAN SPORT 7 4K
+#EXTINF:-1 group-title="ALWAN 2" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 7
 http://luxipgold.xyz:8080/15034094901029/18800196589372/433739
 
-#EXTINF:-1,Alwan Sport 8 4K
+#2 ALWAN SPORT 8 4K
+#EXTINF:-1 group-title="ALWAN 8" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 8
 http://luxipgold.xyz:8080/15034094901029/18800196589372/433740
 
-#EXTINF:-1,Alwan Sport 9 4K
+#2 ALWAN SPORT 9 4K
+#EXTINF:-1 group-title="ALWAN 9" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 9
 http://luxipgold.xyz:8080/15034094901029/18800196589372/433741
 
-#EXTINF:-1,Alwan Sport 10 4K
+#2 ALWAN SPORT 10 4K
+#EXTINF:-1 group-title="ALWAN 10" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 10
 http://luxipgold.xyz:8080/15034094901029/18800196589372/433742
 
 
-
+---------------------------------------------------------------------------
 
 
 
