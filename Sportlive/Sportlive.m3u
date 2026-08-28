@@ -147,8 +147,7 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/318230
 ### ALWAN SPORT ###
 
 #1 ALWAN SPORT 1 SD
-#EXTINF:-1 group-title="ALWAN SPORT 1" 
-tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 1 
+#EXTINF:-1 group-title="ALWAN SPORT 1" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 1 
 http://luxipgold.xyz:8080/15034094901029/18800196589372/418113
 
 #EXTINF:-1,Alwan Sport 1 HD
@@ -159,8 +158,7 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/418111
 
 
 #2 ALWAN SPORT 2 SD
-#EXTINF:-1 group-title="ALWAN SPORT 2" 
-tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 2
+#EXTINF:-1 group-title="ALWAN SPORT 2" tvg-logo="https://n9.cl/i2tiqf" ,ALWAN SPORT 2
 http://luxipgold.xyz:8080/15034094901029/18800196589372/418116
 
 #EXTINF:-1,Alwan Sport 2 HD
