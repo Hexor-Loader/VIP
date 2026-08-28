@@ -197,9 +197,11 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/318219
 #EXTINF:-1 group-title="Bein Sport 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,Bein Sport 1
 http://luxipgold.xyz:8080/15034094901029/18800196589372/325803
 
-
-#EXTINF:-1,beIN Sport 2 sd
+#2 Bein Sport 2 SD
+#EXTINF:-1 group-title="Bein Sport 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" ,Bein Sport 2
 http://luxipgold.xyz:8080/15034094901029/18800196589372/325804
+
+
 
 #EXTINF:-1,beIN Sport 3 sd
 http://luxipgold.xyz:8080/15034094901029/18800196589372/325805
