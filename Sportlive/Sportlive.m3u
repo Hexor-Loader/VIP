@@ -4,12 +4,12 @@
 
 ### BEIN SPORT ###
 
-#1 beIN Sport 1 SD
-#EXTINF:-1,beIN Sport 1 SD group-title="Bein Sport 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,Bein Sport 1
-http://xxtv.me:8080/live/li23565899899/336555888877888/325793.ts
+#1 Bein Sport 1 SD
+#EXTINF:-1 group-title="Bein Sport 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" ,Bein Sport 1
+http://xxtv.me:8080/live/li23565899899/336555888877888/325803.ts
 
 #EXTINF:-1,beIN Sport 1 HD
-http://xxtv.me:8080/live/li23565899899/336555888877888/325793.ts
+http://xxtv.me:8080/live/li23565899899/336555888877888/391094.ts
 
 #EXTINF:-1,beIN Sport 1 FHD
 http://xxtv.me:8080/live/li23565899899/336555888877888/325793.ts
