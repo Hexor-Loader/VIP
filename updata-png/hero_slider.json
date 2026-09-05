@@ -7,7 +7,10 @@
       "day": "اليوم",
       "time": "06:45 م",
       "period": "",
-      "bottom_text": "العراق, الدوري العراقي, الجولة 5"
+      "right_channel": "",
+      "right_commentator": "",
+      "left_league": "الدوري العراقي",
+      "bottom_left_team": "لا يوجد × الموصل",
     },
     {
       "left_team": "لا يوجد",
@@ -16,7 +19,10 @@
       "day": "اليوم",
       "time": "10:00 م",
       "period": "",
-      "bottom_text": "إسبانيا, الدوري الإسباني, الجولة 4"
+      "right_channel": "",
+      "right_commentator": "",
+      "left_league": "الدوري الإسباني",
+      "bottom_left_team": "لا يوجد × ريال بيتيس",
     },
     {
       "left_team": "لا يوجد",
@@ -25,7 +31,10 @@
       "day": "اليوم",
       "time": "9:00 م",
       "period": "",
-      "bottom_text": "السعودية, الدوري السعودي, الجولة 5"
+      "right_channel": "",
+      "right_commentator": "",
+      "left_league": "الدوري السعودي",
+      "bottom_left_team": "لا يوجد × الشباب",
     },
     {
       "left_team": "النصر",
@@ -34,7 +43,10 @@
       "day": "اليوم",
       "time": "9:00 م",
       "period": "0",
-      "bottom_text": "السعودية, الدوري السعودي, الجولة 5"
+      "right_channel": "الثامنة 1",
+      "right_commentator": "عبدالله الحربي",
+      "left_league": "الدوري السعودي",
+      "bottom_left_team": "الاتحاد × النصر",
     }
   ]
 }
