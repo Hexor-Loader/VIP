@@ -11,6 +11,7 @@
       "right_commentator": "",
       "left_league": "الدوري العراقي",
       "bottom_left_team": "لا يوجد × الموصل",
+      "bottom_text": "السعودية, الدوري السعودي, الجولة 5"
     },
     {
       "left_team": "لا يوجد",
@@ -23,6 +24,7 @@
       "right_commentator": "",
       "left_league": "الدوري الإسباني",
       "bottom_left_team": "لا يوجد × ريال بيتيس",
+      "bottom_text": "السعودية, الدوري السعودي, الجولة 5"
     },
     {
       "left_team": "لا يوجد",
@@ -35,6 +37,7 @@
       "right_commentator": "",
       "left_league": "الدوري السعودي",
       "bottom_left_team": "لا يوجد × الشباب",
+      "bottom_text": "السعودية, الدوري السعودي, الجولة 5"
     },
     {
       "left_team": "النصر",
@@ -47,6 +50,7 @@
       "right_commentator": "عبدالله الحربي",
       "left_league": "الدوري السعودي",
       "bottom_left_team": "الاتحاد × النصر",
+      "bottom_text": "السعودية, الدوري السعودي, الجولة 5"
     }
   ]
 }
