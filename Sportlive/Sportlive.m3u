@@ -262,14 +262,26 @@ http://xxtv.me:8080/live/li23565899899/336555888877888/371933.ts
 
 ### THMANYAH SPORTS ###
 
-#1 Thmanyah 1
+#1 Thmanyah 1 SD
 #EXTINF:-1 group-title="Thmanyah 1 - ثمانية 1" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/updata-png/20260904_214229.png" ,Thmanyah 1
-http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/4119.ts
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/1644650.ts
+
+#EXTINF:-1,Thmanyah 1 HD
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/1644648.ts
+
+#EXTINF:-1,Thmanyah 1 FHD
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/1644649.ts
+
+#EXTINF:-1,Thmanyah 1 4K
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/1079546.ts
 
 
 #2 Thmanyah 2
 #EXTINF:-1 group-title="Thmanyah 2 - ثمانية 2" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/updata-png/20260904_214229.png" ,Thmanyah 2
-http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/4120.ts
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/864502.ts
+
+Thmanyah 2 4K
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/1079547.ts
 
 
 
@@ -281,6 +293,9 @@ http://eagle4u.org/ofn52734x1/o4powr6ds3/1549877
 
 ---------------------------------------------------------------------------
 
+### All other sports channels ### 
 
-
+#1 All_other_sports_channels
+#EXTINF:-1 group-title="Thmanyah 1 - ثمانية 1" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/updata-png/20260904_214229.png" ,Thmanyah 1
+http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/4119.ts
 
