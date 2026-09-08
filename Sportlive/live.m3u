@@ -6,7 +6,7 @@
 
 #1 NEWS
 #EXTINF:-1 group-title="v1" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/png/20260908_152623.png" ,v1
-http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
+http://mkstream.servehttp.com:1940/v1/ay1/chunklist.m3u8
 
 
 ---------------------------------------------------------------------------
@@ -15,7 +15,7 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 
 #2 FILMS
 #EXTINF:-1 group-title="v2" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/png/20260908_152623.png" ,v2
-http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
+http://mkstream.servehttp.com:1940/v2/ay1/chunklist.m3u8
 
 
 ---------------------------------------------------------------------------
@@ -24,7 +24,7 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 
 #3 CARTOON
 #EXTINF:-1 group-title="v3" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/png/20260908_152623.png" ,v3
-http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
+http://mkstream.servehttp.com:1940/v3/ay1/chunklist.m3u8
 
 
 ---------------------------------------------------------------------------
