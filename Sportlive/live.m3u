@@ -2,27 +2,18 @@
 
 ---------------------------------------------------------------------------
 
-### قنوات اخبار NEWS ###
+### قنوات اخبار ###
 
-#1 قنوات اخبار NEWS
+#1 NEWS
 #EXTINF:-1 group-title="عمو يزيد" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/png/20260908_152623.png" ,Amou Yazid
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 
 
 ---------------------------------------------------------------------------
 
-### قنوات افلام FILMS ###
+### قنوات افلام ###
 
-#2 قنوات افلام FILMS
-#EXTINF:-1 group-title="عمو يزيد" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/png/20260908_152623.png" ,Amou Yazid
-http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
-
-
----------------------------------------------------------------------------
-
-### قنوات كارتون ###
-
-#3 قنوات كارتون CARTOON
+#2 FILMS
 #EXTINF:-1 group-title="عمو يزيد" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/png/20260908_152623.png" ,Amou Yazid
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 
@@ -31,7 +22,16 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 
 ### قنوات كارتون ###
 
-#1 قنوات كارتون CARTOON
+#3 CARTOON
+#EXTINF:-1 group-title="عمو يزيد" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/png/20260908_152623.png" ,Amou Yazid
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
+
+
+---------------------------------------------------------------------------
+
+### قنوات مسلسلات ###
+
+#1 SERIES
 #EXTINF:-1 group-title="اخبار" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/png/20260908_152623.png" ,Amou Yazid
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 
