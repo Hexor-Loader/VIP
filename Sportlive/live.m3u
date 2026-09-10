@@ -23,8 +23,56 @@ http://mkstream.servehttp.com:1940/v2/ay1/chunklist.m3u8
 ### قنوات كارتون ###
 
 #3 CARTOON
-#EXTINF:-1 group-title="v3" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/png/20260908_152623.png" ,v3
-http://mkstream.servehttp.com:1940/v3/ay1/chunklist.m3u8
+#EXTINF:-1 group-title="كارتون عمو يزيد" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/png/20260908_152623.png" ,Amou Yazid
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC 3" tvg-logo="https://docdog.top/logo/countries/arab/mbc3.png" group-title="ARAB | MBC & MYHD",AR: MBC 3
+http://31.43.191.142:8080/191703089055131/01703089055686/53050
+#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC 3" tvg-logo="https://docdog.top/logo/countries/arab/MYHDMBC3.jpg" group-title="ARAB | MBC & MYHD",AR: MYHD MBC 3
+http://31.43.191.142:8080/191703089055131/01703089055686/53084
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOONBUG KIDS" tvg-logo="" group-title="ARAB | OSN",AR: OSN MOONBUG KIDS
+http://31.43.191.142:8080/191703089055131/01703089055686/53336
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN BABY TV" tvg-logo="https://docdog.top/logo/countries/arab/osnbabytv.png" group-title="ARAB | OSN",AR: OSN BABY TV
+http://31.43.191.142:8080/191703089055131/01703089055686/53126
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN KIDS" tvg-logo="https://docdog.top/logo/countries/arab/osnkids.png" group-title="ARAB | OSN",AR: OSN KIDS
+http://31.43.191.142:8080/191703089055131/01703089055686/53137
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN KIDZONE" tvg-logo="https://docdog.top/logo/countries/arab/osnkidszone.png" group-title="ARAB | OSN",AR: OSN KIDZONE
+http://31.43.191.142:8080/191703089055131/01703089055686/53138
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAT 7 KIDS" tvg-logo="https://docdog.top/logo/countries/arab/sat7kids.png" group-title="ARAB",AR: SAT 7 KIDS
+http://31.43.191.142:8080/191703089055131/01703089055686/53214
+#EXTINF:-1 tvg-id="" tvg-name="AR: TAHA KIDS" tvg-logo="https://docdog.top/logo/countries/arab/TAHAKIDS.jpg" group-title="ARAB | EGYPT",AR: TAHA KIDS
+http://31.43.191.142:8080/191703089055131/01703089055686/53267
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL MAJD KIDS" tvg-logo="https://docdog.top/logo/countries/arab/almajdkids.png" group-title="ARAB | SAUDI ARABIA",AR: AL MAJD KIDS
+http://31.43.191.142:8080/191703089055131/01703089055686/52776
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN JEEM" tvg-logo="https://docdog.top/logo/countries/arab/beinjeem.png" group-title="ARAB | SYRIA",AR: BEIN JEEM
+http://31.43.191.142:8080/191703089055131/01703089055686/52690
+#EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦KIDS✦●✦" tvg-logo="" group-title="ARAB",AR: ✦●✦KIDS✦●✦
+http://31.43.191.142:8080/191703089055131/01703089055686/54672
+#EXTINF:-1 tvg-id="" tvg-name="AR: SPACE TOON" tvg-logo="https://docdog.top/logo/countries/arab/spacetoon.png" group-title="ARAB",AR: SPACE TOON
+http://31.43.191.142:8080/191703089055131/01703089055686/53236
+#EXTINF:-1 tvg-id="" tvg-name="AR: TOYOUR BABY" tvg-logo="https://docdog.top/logo/countries/arab/TOYOURBABY.jpg" group-title="ARAB",AR: TOYOUR BABY
+http://31.43.191.142:8080/191703089055131/01703089055686/53285
+#EXTINF:-1 tvg-id="" tvg-name="AR: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/arab/cartoonnetwork.png" group-title="ARAB",AR: CARTOON NETWORK
+http://31.43.191.142:8080/191703089055131/01703089055686/52691
+#EXTINF:-1 tvg-id="" tvg-name="AR: AJYAL TV" tvg-logo="https://docdog.top/logo/countries/arab/ajyaltv.png" group-title="ARAB",AR: AJYAL TV
+http://31.43.191.142:8080/191703089055131/01703089055686/52705
+#EXTINF:-1 tvg-id="" tvg-name="AR: ATFAL MAWAHEB KIDS" tvg-logo="https://docdog.top/logo/countries/arab/kidsatfalmawaheb.png" group-title="ARAB",AR: ATFAL MAWAHEB KIDS
+http://31.43.191.142:8080/191703089055131/01703089055686/52857
+#EXTINF:-1 tvg-id="" tvg-name="AR: BABY TV" tvg-logo="https://docdog.top/logo/countries/arab/babytv.png" group-title="ARAB",AR: BABY TV
+http://31.43.191.142:8080/191703089055131/01703089055686/52863
+#EXTINF:-1 tvg-id="" tvg-name="AR: GULLI ARABIC KIDS" tvg-logo="https://docdog.top/logo/countries/arab/GULLIARABICKIDS.jpg" group-title="ARAB",AR: GULLI ARABIC KIDS
+http://31.43.191.142:8080/191703089055131/01703089055686/52947
+#EXTINF:-1 tvg-id="" tvg-name="AR: KARAMEESH CARTOON" tvg-logo="https://docdog.top/logo/countries/arab/KARAMEESHCARTOON.jpg" group-title="ARAB",AR: KARAMEESH CARTOON
+http://31.43.191.142:8080/191703089055131/01703089055686/52990
+#EXTINF:-1 tvg-id="" tvg-name="AR: KOOGI KIDS" tvg-logo="https://docdog.top/logo/countries/arab/KOOGIKIDS.jpg" group-title="ARAB",AR: KOOGI KIDS
+http://31.43.191.142:8080/191703089055131/01703089055686/52993
+#EXTINF:-1 tvg-id="" tvg-name="AR: MAJID KIDS" tvg-logo="https://docdog.top/logo/countries/arab/majidkids.png" group-title="ARAB",AR: MAJID KIDS
+http://31.43.191.142:8080/191703089055131/01703089055686/53043
+#EXTINF:-1 tvg-id="" tvg-name="AR: SEMSEM KIDS" tvg-logo="https://docdog.top/logo/countries/arab/SEMSEMKIDS.jpg" group-title="ARAB",AR: SEMSEM KIDS
+http://31.43.191.142:8080/191703089055131/01703089055686/53229
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN BARAEM" tvg-logo="https://docdog.top/logo/countries/bein/beinbaraem.png" group-title="ARAB | BEIN",AR: BEIN BARAEM
+http://31.43.191.142:8080/191703089055131/01703089055686/25091
+
 
 
 ---------------------------------------------------------------------------
@@ -33,7 +81,7 @@ http://mkstream.servehttp.com:1940/v3/ay1/chunklist.m3u8
 
 #4 SERIES
 #EXTINF:-1 group-title="v4" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/png/20260908_152623.png" ,v4
-http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
+http://mkstream.servehttp.com:1940/v6/ay1/chunklist.m3u8
 
 
 ---------------------------------------------------------------------------
