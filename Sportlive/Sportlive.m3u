@@ -299,5 +299,15 @@ http://31.43.191.142:8080/191703089055131/01703089055686/52979
 
 ---------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-name="ALWAN 1" group-title="الوان 1",ALWAN 1
+http://fackyou-cdn5.cfd/ALWAN-1/mpegts
 
+#EXTINF:-1 tvg-name="ALWAN 2" group-title="الوان 2",ALWAN 2
+http://fackyou-cdn5.cfd/ALWAN-2/mpegts
+
+#EXTINF:-1 tvg-name="ALWAN 3" group-title="الوان 3",ALWAN 3
+http://fackyou-cdn5.cfd/ALWAN-3/mpegts
+
+#EXTINF:-1 tvg-name="ALWAN 4" group-title="الوان 4",ALWAN 4
+http://fackyou-cdn5.cfd/ALWAN-4/mpegts
 
