@@ -131,7 +131,76 @@ http://luxipgold.xyz:8080/15034094901029/18800196589372/318205
 
 ---------------------------------------------------------------------------
 
+### ALWAN SPORT ###
 
+#1 ALWAN 1 SD
+#EXTINF:-1 group-title="الوان 1" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/updata-png/20260828_231703.png" ,ALWAN 1 
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852916.ts
+
+#EXTINF:-1,ALWAN 1 HD
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852915.ts
+
+#EXTINF:-1,ALWAN 1 4K
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852917.ts
+
+
+#2 ALWAN 2 SD
+#EXTINF:-1 group-title="الوان 2" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/updata-png/20260828_231703.png" ,ALWAN 2
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852919.ts
+
+#EXTINF:-1,ALWAN 2 HD
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852918.ts
+
+#EXTINF:-1,ALWAN 2 4K
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852920.ts
+
+
+
+#3 ALWAN 3 SD
+#EXTINF:-1 group-title="لوان 3" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/updata-png/20260828_231703.png" ,ALWAN 3
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852922.ts
+
+#EXTINF:-1,ALWAN 3 HD
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852921.ts
+
+#EXTINF:-1,ALWAN 3 4K
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852923.ts
+
+
+
+#4 ALWAN 4 SD
+#EXTINF:-1 group-title="الوان 4" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/updata-png/20260828_231703.png" ,ALWAN 4
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852925.ts
+
+#EXTINF:-1,ALWAN 4 HD
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852924.ts
+
+#EXTINF:-1,ALWAN 4 4K
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852926.ts
+
+
+
+#5 ALWAN 5 SD
+#EXTINF:-1 group-title="الوان 5" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/updata-png/20260828_231703.png" ,ALWAN 5
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852928.ts
+
+#EXTINF:-1,ALWAN 5 HD
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852928.ts
+
+#EXTINF:-1,ALWAN 5 4K
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852927.ts
+
+
+
+#6 ALWAN 6 SD
+#EXTINF:-1 group-title="الوان 6" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/updata-png/20260828_231703.png" ,ALWAN 6
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852931.ts
+
+#EXTINF:-1,ALWAN 6 HD
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852930.ts
+
+#EXTINF:-1,ALWAN 6 4K
+http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/852932.ts
 
 
 ---------------------------------------------------------------------------
@@ -229,16 +298,3 @@ http://www.pandar.xyz:88/live/esnzmmSVYumkvar/bDkuu1FkNbMYyXd/1079551.ts
 http://31.43.191.142:8080/191703089055131/01703089055686/52979
 
 ---------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-name="ALWAN 1" group-title="الوان 1",ALWAN 1
-http://fackyou-cdn5.cfd/ALWAN-1/mpegts
-
-#EXTINF:-1 tvg-name="ALWAN 2" group-title="الوان 2",ALWAN 2
-http://fackyou-cdn5.cfd/ALWAN-2/mpegts
-
-#EXTINF:-1 tvg-name="ALWAN 3" group-title="الوان 3",ALWAN 3
-http://fackyou-cdn5.cfd/ALWAN-3/mpegts
-
-#EXTINF:-1 tvg-name="ALWAN 4" group-title="الوان 4",ALWAN 4
-http://fackyou-cdn5.cfd/ALWAN-4/mpegts
-
