@@ -1,1 +1,25 @@
 
+{
+  "hero": [ // قسم الكارد اعلى
+    {"name":"Big Buck Bunny","image":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg","video":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4","url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"},
+    {"name":"Elephants Dream","image":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg","video":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4","url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"},
+    {"name":"For Bigger Blazes","image":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg","video":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4","url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"},
+    {"name":"For Bigger Escape","image":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg","video":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4","url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"},
+    {"name":"Sintel","image":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg","video":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4","url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"}
+  ],
+  "sections": {
+    "films": [ // قسم الافلام
+      {"name":"Big Buck Bunny","image":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg","url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"},
+      {"name":"Elephants Dream","image":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg","url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"},
+      {"name":"Sintel","image":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg","url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"}
+    ],
+    "series": [ // قسم المسلسلات
+      {"name":"For Bigger Blazes","image":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg","url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"},
+      {"name":"For Bigger Escape","image":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg","url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"}
+    ],
+    "cartoon": [ // قسم الكارتون
+      {"name":"Big Buck Bunny","image":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg","url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"},
+      {"name":"Sintel","image":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg","url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"}
+    ]
+  }
+}
