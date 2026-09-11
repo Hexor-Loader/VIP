@@ -5,8 +5,9 @@
 ### BEIN SPORT ###
 
 #1 Bein Sport 1 SD
-#EXTINF:-1 group-title="بين سبورت 1" tvg-logo="https://raw.githubusercontent.com/Hexor-Loader/VIP/refs/heads/main/png/20260906_155617.png" ,BEIN SPORT 1
-http://watchcan2025.online:8080/live/2ct1j5n8lv/eqk5yd9n2a/2541.ts
+#EXTINF:-1 tvg-name="beIN Sports 1" group-title="رياضة",beIN Sports 1
+https://fackyou-cdn5.cfd/BEIN-1/embed.html
+
 
 #EXTINF:-1,beIN Sport 1 HD
 http://watchcan2025.online:8080/live/2ct1j5n8lv/eqk5yd9n2a/1.ts
