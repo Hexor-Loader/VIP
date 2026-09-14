@@ -86,15 +86,15 @@
         "4K": "لا يوجد"
       },
       {
-        "name": "Sintel",
-        "image": "https:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/images\/Sintel.jpg",
-        "url": "https:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/Sintel.mp4",
-        "date": "2010",
-        "subtitle": "",
+        "name": "Master of the Universe \/ سيد الكون",
+        "image": "https:\/\/raw.githubusercontent.com\/Hexor-Loader\/VIP\/refs\/heads\/main\/Movies\/PNG\/Master.of.the.Universe.2026.png",
+        "url": "",
+        "date": "2026",
+        "subtitle": "https:\/\/raw.githubusercontent.com\/Hexor-Loader\/VIP\/refs\/heads\/main\/Movies\/pulp-srt\/Master.of.the.Universe.2026.srt",
         "480p": "لا يوجد",
         "720p": "لا يوجد",
         "1080p": "لا يوجد",
-        "4K": "لا يوجد"
+        "4K": "https:\/\/drive.google.com\/file\/d\/1ePAuwuMs0p0NQD8diKdNWyzcrP3hYDQA\/view?usp=drivesdk"
       }
     ],
     "series": [
